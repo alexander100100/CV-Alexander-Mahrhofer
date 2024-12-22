@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="856af301-2dce-4056-8867-6979d6857146" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="856af301-2dce-4056-8867-6979d6857146" name="Changes" comment="CV Alexander Mahrhofer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,11 +57,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734901708963</updated>
-      <workItem from="1734901709989" duration="3982000" />
+      <workItem from="1734901709989" duration="4323000" />
     </task>
+    <task id="LOCAL-00001" summary="CV Alexander Mahrhofer">
+      <option name="closed" value="true" />
+      <created>1734908009833</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734908009833</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CV Alexander Mahrhofer">
+      <option name="closed" value="true" />
+      <created>1734908021303</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734908021303</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CV Alexander Mahrhofer" />
+    <option name="LAST_COMMIT_MESSAGE" value="CV Alexander Mahrhofer" />
   </component>
 </project>
